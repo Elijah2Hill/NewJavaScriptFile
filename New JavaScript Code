@@ -1,0 +1,9 @@
+<script>
+    var firstName = "Elijah";
+    var lastName = " Hill";
+    var age = "19";
+
+    alert("My name is " + firstName + lastName)
+    alert("I am " + age + " years old")
+    console.log("I'm having lots of fun in this class.")
+</script>
